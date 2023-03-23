@@ -25,6 +25,9 @@ Grandes telas: acima de 1200px*/
         float: right;
         width: 70%;
     }
+    div.campo > input{
+        width: 360px;
+    }
 }
 @media screen and (min-width: 992px){
             /*telas grandes*/
@@ -50,6 +53,9 @@ div#formulario > h1 {
 div#formulario > p{
     font-size: 1em ;
     margin: 20px,0px;
+}
+div.campo > input{
+    width: 405px;
 }
 
 }
